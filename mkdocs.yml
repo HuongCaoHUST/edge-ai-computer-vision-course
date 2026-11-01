@@ -47,10 +47,14 @@ nav:
           - Đánh giá chất lượng: modules/02-training/evaluation.md
           - FPS và độ trễ: modules/02-training/performance.md
           - CPU, RAM và hệ thống: modules/02-training/resources.md
-      - Lab 3 · Inference với OpenCV:
+      - Lab 3 · Lượng tử hóa mô hình:
           - Tổng quan: modules/03-inference/index.md
-          - Khung hướng dẫn: modules/03-inference/guide.md
-          - Bài tập & nộp bài: modules/03-inference/assignment.md
+          - Khái niệm và nguyên lý: modules/03-inference/quantization.md
+          - PTQ và Calibration: modules/03-inference/ptq.md
+          - QAT: modules/03-inference/qat.md
+          - FP32, FP16 và INT8: modules/03-inference/formats.md
+          - Đánh giá chất lượng và hiệu năng: modules/03-inference/evaluation.md
+          - Thực hành: modules/03-inference/practice.md
       - Lab 4 · Đánh giá chất lượng:
           - Tổng quan: modules/04-evaluation/index.md
           - Khung hướng dẫn: modules/04-evaluation/guide.md

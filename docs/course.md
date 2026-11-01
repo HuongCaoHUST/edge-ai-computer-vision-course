@@ -8,7 +8,7 @@ Sau khóa học, học viên có thể xây dựng một pipeline object detecti
 - Huấn luyện SSD MobileNet bằng Python.
 - Chạy inference ảnh, video và camera với OpenCV.
 - Đánh giá mAP, Precision, Recall và AP.
-- Đo FPS, độ trễ, CPU, RAM và nhiệt độ.
+- Lượng tử hóa mô hình và đánh giá đánh đổi giữa độ chính xác, tốc độ, kích thước và tài nguyên.
 - Viết báo cáo có số liệu tái lập được.
 
 ## Bản đồ nội dung
@@ -17,7 +17,7 @@ Sau khóa học, học viên có thể xây dựng một pipeline object detecti
 | --- | --- | --- |
 | [Lab 1](modules/01-environment/index.md) | Nhập môn Edge AI và quy trình phát triển | Đặc tả bài toán, sơ đồ triển khai, phiên bản công cụ |
 | [Lab 2](modules/02-training/index.md) | Huấn luyện | `runs/log.csv`, `curves.png`, `best.pt` |
-| [Lab 3](modules/03-inference/index.md) | Inference OpenCV | Ảnh/video kết quả, thời gian từng bước |
+| [Lab 3](modules/03-inference/index.md) | Lượng tử hóa mô hình | Mô hình FP32/FP16/INT8 và bảng so sánh |
 | [Lab 4](modules/04-evaluation/index.md) | Đánh giá chất lượng | `results/quality.json`, AP từng lớp |
 | [Lab 5](modules/05-benchmark/index.md) | FPS và độ trễ | Benchmark theo thiết bị |
 | [Lab 6](modules/06-resources/index.md) | Tài nguyên và báo cáo | CSV tài nguyên, báo cáo tổng kết |
