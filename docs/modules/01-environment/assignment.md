@@ -24,6 +24,10 @@ CIFAR-10 gồm ảnh màu kích thước `3×32×32` thuộc 10 lớp:
 plane, car, bird, cat, deer, dog, frog, horse, ship, truck
 ```
 
+![Các lớp trong bộ dữ liệu CIFAR-10](cifar10.png)
+
+*Hình 1. Ví dụ các lớp ảnh trong CIFAR-10.*
+
 Model nhận một batch ảnh có shape `[batch_size, 3, 32, 32]` và trả về 10 logits cho mỗi ảnh. Lớp có logit lớn nhất là lớp được dự đoán.
 
 ## Mã nguồn đi kèm
