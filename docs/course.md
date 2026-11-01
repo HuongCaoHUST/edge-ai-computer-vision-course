@@ -9,16 +9,17 @@ Sau khóa học, học viên có thể xây dựng một pipeline object detecti
 - Chạy inference ảnh, video và camera với OpenCV.
 - Đánh giá mAP, Precision, Recall và AP.
 - Lượng tử hóa mô hình và đánh giá đánh đổi giữa độ chính xác, tốc độ, kích thước và tài nguyên.
+- Cắt tỉa mô hình, đo sparsity và phân tích đánh đổi giữa độ chính xác và hiệu năng trên thiết bị biên.
 - Viết báo cáo có số liệu tái lập được.
 
 ## Bản đồ nội dung
 
 | Phần | Trọng tâm | Sản phẩm chính |
 | --- | --- | --- |
-| [Lab 1](modules/01-environment/index.md) | Nhập môn Edge AI và quy trình phát triển | Đặc tả bài toán, sơ đồ triển khai, phiên bản công cụ |
-| [Lab 2](modules/02-training/index.md) | Huấn luyện | `runs/log.csv`, `curves.png`, `best.pt` |
-| [Lab 3](modules/03-inference/index.md) | Lượng tử hóa mô hình | Mô hình FP32/FP16/INT8 và bảng so sánh |
-| [Lab 4](modules/04-evaluation/index.md) | Đánh giá chất lượng | `results/quality.json`, AP từng lớp |
+| [Lab 1](modules/01-edge-ai-introduction/index.md) | Nhập môn Edge AI và quy trình phát triển | Đặc tả bài toán, sơ đồ triển khai, phiên bản công cụ |
+| [Lab 2](modules/02-model-training/index.md) | Huấn luyện | `runs/log.csv`, `curves.png`, `best.pt` |
+| [Lab 3](modules/03-model-quantization/index.md) | Lượng tử hóa mô hình | Mô hình FP32/FP16/INT8 và bảng so sánh |
+| [Lab 4](modules/04-model-pruning/index.md) | Cắt tỉa mô hình | Checkpoint pruning, sparsity, mAP và benchmark |
 | [Lab 5](modules/05-benchmark/index.md) | FPS và độ trễ | Benchmark theo thiết bị |
 | [Lab 6](modules/06-resources/index.md) | Tài nguyên và báo cáo | CSV tài nguyên, báo cáo tổng kết |
 | [Lab 7](modules/07-topic/index.md) | Chưa đặt tên | Sẽ bổ sung |

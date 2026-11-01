@@ -29,7 +29,7 @@ Luồng chính của Lab là `FP32 → PTQ + calibration → benchmark`. Nếu P
 
 ## Đầu vào
 
-- checkpoint SSD MobileNet từ [Lab 2](../02-training/index.md);
+- checkpoint SSD MobileNet từ [Lab 2](../02-model-training/index.md);
 - tập calibration đại diện cho dữ liệu thực tế;
 - tập validation/test cố định để so sánh công bằng;
 - runtime tương ứng với định dạng model trên thiết bị biên.

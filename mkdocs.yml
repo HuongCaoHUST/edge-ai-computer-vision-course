@@ -1,4 +1,4 @@
-site_name: Computer Vision trên thiết bị biên
+site_name: Tối ưu AI trên thiết bị biên
 site_description: Course về huấn luyện, triển khai và đánh giá SSD MobileNet trên thiết bị biên
 
 theme:
@@ -35,30 +35,34 @@ nav:
       - Trang chủ: index.md
       - Lộ trình khóa học: course.md
       - Lab 1 · Giới thiệu Edge AI:
-          - Tổng quan: modules/01-environment/index.md
-          - Nội dung: modules/01-environment/guide.md
-          - PyTorch: modules/01-environment/pytorch.md
-          - TensorFlow/Keras: modules/01-environment/tensorflow.md
-          - Thực hành: modules/01-environment/assignment.md
+          - Tổng quan: modules/01-edge-ai-introduction/index.md
+          - Nội dung: modules/01-edge-ai-introduction/guide.md
+          - PyTorch: modules/01-edge-ai-introduction/pytorch.md
+          - TensorFlow/Keras: modules/01-edge-ai-introduction/tensorflow.md
+          - Thực hành: modules/01-edge-ai-introduction/assignment.md
       - Lab 2 · Huấn luyện:
-          - Tổng quan: modules/02-training/index.md
-          - Huấn luyện SSD MobileNet: modules/02-training/training.md
-          - Inference với OpenCV: modules/02-training/inference.md
-          - Đánh giá chất lượng: modules/02-training/evaluation.md
-          - FPS và độ trễ: modules/02-training/performance.md
-          - CPU, RAM và hệ thống: modules/02-training/resources.md
+          - Tổng quan: modules/02-model-training/index.md
+          - Huấn luyện SSD MobileNet: modules/02-model-training/training.md
+          - Inference với OpenCV: modules/02-model-training/inference.md
+          - Đánh giá chất lượng: modules/02-model-training/evaluation.md
+          - FPS và độ trễ: modules/02-model-training/performance.md
+          - CPU, RAM và hệ thống: modules/02-model-training/resources.md
       - Lab 3 · Lượng tử hóa mô hình:
-          - Tổng quan: modules/03-inference/index.md
-          - Khái niệm và nguyên lý: modules/03-inference/quantization.md
-          - PTQ và Calibration: modules/03-inference/ptq.md
-          - QAT: modules/03-inference/qat.md
-          - FP32, FP16 và INT8: modules/03-inference/formats.md
-          - Đánh giá chất lượng và hiệu năng: modules/03-inference/evaluation.md
-          - Thực hành: modules/03-inference/practice.md
-      - Lab 4 · Đánh giá chất lượng:
-          - Tổng quan: modules/04-evaluation/index.md
-          - Khung hướng dẫn: modules/04-evaluation/guide.md
-          - Bài tập & nộp bài: modules/04-evaluation/assignment.md
+          - Tổng quan: modules/03-model-quantization/index.md
+          - Khái niệm và nguyên lý: modules/03-model-quantization/quantization.md
+          - PTQ và Calibration: modules/03-model-quantization/ptq.md
+          - QAT: modules/03-model-quantization/qat.md
+          - FP32, FP16 và INT8: modules/03-model-quantization/formats.md
+          - Đánh giá chất lượng và hiệu năng: modules/03-model-quantization/evaluation.md
+          - Thực hành: modules/03-model-quantization/practice.md
+      - Lab 4 · Cắt tỉa mô hình:
+          - Tổng quan: modules/04-model-pruning/index.md
+          - Nguyên lý và tiêu chí: modules/04-model-pruning/guide.md
+          - Notebook thực hành: modules/04-model-pruning/practice.md
+          - Unstructured pruning: modules/04-model-pruning/unstructured.md
+          - Structured pruning: modules/04-model-pruning/structured.md
+          - Đánh giá chất lượng và hiệu năng: modules/04-model-pruning/evaluation.md
+          - Bài tập & nộp bài: modules/04-model-pruning/assignment.md
       - Lab 5 · FPS và độ trễ:
           - Tổng quan: modules/05-benchmark/index.md
           - Khung hướng dẫn: modules/05-benchmark/guide.md

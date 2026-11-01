@@ -71,7 +71,7 @@ Nếu đã có môi trường PyTorch của khóa học, có thể bỏ qua bư�
 Chạy từ thư mục gốc repository:
 
 ```bash
-python docs/modules/01-environment/cifar10_tutorial.py
+python docs/modules/01-edge-ai-introduction/cifar10_tutorial.py
 ```
 
 Lần chạy đầu tiên sẽ tải CIFAR-10 vào thư mục `data/`. Sau khi train, model được lưu ở `cifar_net.pt`.
@@ -79,7 +79,7 @@ Lần chạy đầu tiên sẽ tải CIFAR-10 vào thư mục `data/`. Sau khi t
 ### Cách 2: chạy notebook
 
 ```bash
-jupyter notebook docs/modules/01-environment/cifar10_tutorial.ipynb
+jupyter notebook docs/modules/01-edge-ai-introduction/cifar10_tutorial.ipynb
 ```
 
 Chạy các cell theo thứ tự từ trên xuống dưới. Notebook phù hợp để quan sát batch ảnh, nhãn thật, nhãn dự đoán và kết quả accuracy.
