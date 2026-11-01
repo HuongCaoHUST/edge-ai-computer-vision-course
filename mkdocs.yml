@@ -42,8 +42,11 @@ nav:
           - Thực hành: modules/01-environment/assignment.md
       - Lab 2 · Huấn luyện:
           - Tổng quan: modules/02-training/index.md
-          - Hướng dẫn thực hành: modules/02-training/guide.md
-          - Kiểm tra & nộp bài: modules/02-training/submission.md
+          - Huấn luyện SSD MobileNet: modules/02-training/training.md
+          - Inference với OpenCV: modules/02-training/inference.md
+          - Đánh giá chất lượng: modules/02-training/evaluation.md
+          - FPS và độ trễ: modules/02-training/performance.md
+          - CPU, RAM và hệ thống: modules/02-training/resources.md
       - Lab 3 · Inference với OpenCV:
           - Tổng quan: modules/03-inference/index.md
           - Khung hướng dẫn: modules/03-inference/guide.md
