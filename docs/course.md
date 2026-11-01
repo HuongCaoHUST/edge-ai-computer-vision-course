@@ -15,7 +15,7 @@ Sau khóa học, học viên có thể xây dựng một pipeline object detecti
 
 | Phần | Trọng tâm | Sản phẩm chính |
 | --- | --- | --- |
-| [Lab 1](modules/01-environment/index.md) | Môi trường | Phiên bản công cụ, `pip list` |
+| [Lab 1](modules/01-environment/index.md) | Nhập môn Edge AI và quy trình phát triển | Đặc tả bài toán, sơ đồ triển khai, phiên bản công cụ |
 | [Lab 2](modules/02-training/index.md) | Huấn luyện | `runs/log.csv`, `curves.png`, `best.pt` |
 | [Lab 3](modules/03-inference/index.md) | Inference OpenCV | Ảnh/video kết quả, thời gian từng bước |
 | [Lab 4](modules/04-evaluation/index.md) | Đánh giá chất lượng | `results/quality.json`, AP từng lớp |

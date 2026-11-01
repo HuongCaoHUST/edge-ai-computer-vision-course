@@ -5,7 +5,7 @@ Course thực hành về **huấn luyện, triển khai và đánh giá SSDLite3
 ## Bắt đầu
 
 1. Đọc [Lộ trình khóa học](course.md).
-2. Hoàn thành [Lab 1 · Chuẩn bị môi trường](modules/01-environment/index.md).
+2. Hoàn thành [Lab 1 · Giới thiệu Edge AI và quy trình phát triển ứng dụng AI](modules/01-environment/index.md).
 3. Thực hiện 8 nội dung theo thứ tự trong thanh điều hướng.
 
 ## Mô hình và dữ liệu

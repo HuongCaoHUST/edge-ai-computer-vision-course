@@ -34,10 +34,12 @@ nav:
       - Tổng quan: lab/index.md
       - Trang chủ: index.md
       - Lộ trình khóa học: course.md
-      - Lab 1 · Chuẩn bị môi trường:
+      - Lab 1 · Giới thiệu Edge AI:
           - Tổng quan: modules/01-environment/index.md
-          - Nội dung & thực hành: modules/01-environment/guide.md
-          - Bài tập & nộp bài: modules/01-environment/assignment.md
+          - Nội dung: modules/01-environment/guide.md
+          - PyTorch: modules/01-environment/pytorch.md
+          - TensorFlow/Keras: modules/01-environment/tensorflow.md
+          - Thực hành: modules/01-environment/assignment.md
       - Lab 2 · Huấn luyện:
           - Tổng quan: modules/02-training/index.md
           - Hướng dẫn thực hành: modules/02-training/guide.md
