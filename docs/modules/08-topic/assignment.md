@@ -1,4 +1,4 @@
-# Lab 8 · Nội dung 8 · Bài tập & nộp bài
+# Lab 8 · Bài tập & nộp bài
 
 ## Checklist dự kiến
 

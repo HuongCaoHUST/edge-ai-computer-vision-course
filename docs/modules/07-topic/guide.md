@@ -1,4 +1,4 @@
-# Lab 7 · Nội dung 7 · Khung hướng dẫn
+# Lab 7 · Khung hướng dẫn
 
 ## Nội dung sẽ bổ sung
 

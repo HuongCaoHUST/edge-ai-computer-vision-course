@@ -1,4 +1,4 @@
-# Lab 7 · Nội dung 7 · Bài tập & nộp bài
+# Lab 7 · Bài tập & nộp bài
 
 ## Checklist dự kiến
 

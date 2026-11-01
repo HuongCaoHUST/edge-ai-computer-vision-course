@@ -15,14 +15,14 @@ Sau khóa học, học viên có thể xây dựng một pipeline object detecti
 
 | Phần | Trọng tâm | Sản phẩm chính |
 | --- | --- | --- |
-| [Lab 1 · Nội dung 1](modules/01-environment/index.md) | Môi trường | Phiên bản công cụ, `pip list` |
-| [Lab 2 · Nội dung 2](modules/02-training/index.md) | Huấn luyện | `runs/log.csv`, `curves.png`, `best.pt` |
-| [Lab 3 · Nội dung 3](modules/03-inference/index.md) | Inference OpenCV | Ảnh/video kết quả, thời gian từng bước |
-| [Lab 4 · Nội dung 4](modules/04-evaluation/index.md) | Đánh giá chất lượng | `results/quality.json`, AP từng lớp |
-| [Lab 5 · Nội dung 5](modules/05-benchmark/index.md) | FPS và độ trễ | Benchmark theo thiết bị |
-| [Lab 6 · Nội dung 6](modules/06-resources/index.md) | Tài nguyên và báo cáo | CSV tài nguyên, báo cáo tổng kết |
-| [Lab 7 · Nội dung 7](modules/07-topic/index.md) | Chưa đặt tên | Sẽ bổ sung |
-| [Lab 8 · Nội dung 8](modules/08-topic/index.md) | Chưa đặt tên | Sẽ bổ sung |
+| [Lab 1](modules/01-environment/index.md) | Môi trường | Phiên bản công cụ, `pip list` |
+| [Lab 2](modules/02-training/index.md) | Huấn luyện | `runs/log.csv`, `curves.png`, `best.pt` |
+| [Lab 3](modules/03-inference/index.md) | Inference OpenCV | Ảnh/video kết quả, thời gian từng bước |
+| [Lab 4](modules/04-evaluation/index.md) | Đánh giá chất lượng | `results/quality.json`, AP từng lớp |
+| [Lab 5](modules/05-benchmark/index.md) | FPS và độ trễ | Benchmark theo thiết bị |
+| [Lab 6](modules/06-resources/index.md) | Tài nguyên và báo cáo | CSV tài nguyên, báo cáo tổng kết |
+| [Lab 7](modules/07-topic/index.md) | Chưa đặt tên | Sẽ bổ sung |
+| [Lab 8](modules/08-topic/index.md) | Chưa đặt tên | Sẽ bổ sung |
 
 ## Cấu trúc mỗi lab
 

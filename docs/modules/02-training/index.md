@@ -1,4 +1,4 @@
-# Lab 2 · Nội dung 2 · Huấn luyện
+# Lab 2 · Huấn luyện
 
 ## Mục tiêu
 

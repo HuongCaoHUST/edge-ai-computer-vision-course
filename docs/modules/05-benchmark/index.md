@@ -1,4 +1,4 @@
-# Lab 5 · Nội dung 5 · FPS và độ trễ
+# Lab 5 · FPS và độ trễ
 
 ## Mục tiêu
 

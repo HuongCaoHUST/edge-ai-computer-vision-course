@@ -1,4 +1,4 @@
-# Lab 3 · Nội dung 3 · Inference với OpenCV
+# Lab 3 · Inference với OpenCV
 
 ## Mục tiêu
 

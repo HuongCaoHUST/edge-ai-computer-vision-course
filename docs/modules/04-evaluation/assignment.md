@@ -1,4 +1,4 @@
-# Lab 4 · Nội dung 4 · Bài tập & nộp bài
+# Lab 4 · Bài tập & nộp bài
 
 ## Bài tập
 

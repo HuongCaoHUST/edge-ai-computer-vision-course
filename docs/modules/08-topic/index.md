@@ -1,4 +1,4 @@
-# Lab 8 · Nội dung 8 · Chưa đặt tên
+# Lab 8 · Chưa đặt tên
 
 ## Mục tiêu
 

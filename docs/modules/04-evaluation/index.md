@@ -1,4 +1,4 @@
-# Lab 4 · Nội dung 4 · Đánh giá chất lượng
+# Lab 4 · Đánh giá chất lượng
 
 ## Mục tiêu
 

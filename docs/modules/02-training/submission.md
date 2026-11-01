@@ -1,4 +1,4 @@
-# Lab 2 · Nội dung 2 · Kiểm tra & nộp bài
+# Lab 2 · Kiểm tra & nộp bài
 
 ## Checklist
 

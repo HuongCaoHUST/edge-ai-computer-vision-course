@@ -1,4 +1,4 @@
-# Lab 6 · Nội dung 6 · Bài tập & nộp bài
+# Lab 6 · Bài tập & nộp bài
 
 ## Bài tập
 

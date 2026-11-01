@@ -1,4 +1,4 @@
-# Lab 3 · Nội dung 3 · Bài tập & nộp bài
+# Lab 3 · Bài tập & nộp bài
 
 ## Thí nghiệm
 

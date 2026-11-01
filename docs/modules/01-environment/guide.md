@@ -1,4 +1,4 @@
-# Lab 1 · Nội dung 1 · Nội dung & thực hành
+# Lab 1 · Nội dung & thực hành
 
 ## Khung nội dung
 

@@ -1,4 +1,4 @@
-# Lab 5 · Nội dung 5 · Bài tập & nộp bài
+# Lab 5 · Bài tập & nộp bài
 
 ## Câu hỏi và thí nghiệm
 

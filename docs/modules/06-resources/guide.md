@@ -1,4 +1,4 @@
-# Lab 6 · Nội dung 6 · Khung hướng dẫn
+# Lab 6 · Khung hướng dẫn
 
 ## Các phần nội dung
 

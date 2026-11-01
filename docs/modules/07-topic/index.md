@@ -1,4 +1,4 @@
-# Lab 7 · Nội dung 7 · Chưa đặt tên
+# Lab 7 · Chưa đặt tên
 
 ## Mục tiêu
 

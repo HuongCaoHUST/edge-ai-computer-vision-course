@@ -1,4 +1,4 @@
-# Lab 5 · Nội dung 5 · Khung hướng dẫn
+# Lab 5 · Khung hướng dẫn
 
 ## Các phần nội dung
 

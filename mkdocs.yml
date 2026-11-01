@@ -4,6 +4,7 @@ site_description: Course về huấn luyện, triển khai và đánh giá SSD M
 theme:
   name: material
   language: vi
+  logo: assets/g2.png
   features:
     - navigation.tabs
     - navigation.sections
@@ -26,42 +27,42 @@ theme:
       toggle:
         icon: material/weather-sunny
         name: Giao diện sáng
-  favicon: assets/favicon.svg
+  favicon: assets/g1.png
 
 nav:
   - Lab:
       - Tổng quan: lab/index.md
       - Trang chủ: index.md
       - Lộ trình khóa học: course.md
-      - Lab 1 · Nội dung 1 · Chuẩn bị môi trường:
+      - Lab 1 · Chuẩn bị môi trường:
           - Tổng quan: modules/01-environment/index.md
           - Nội dung & thực hành: modules/01-environment/guide.md
           - Bài tập & nộp bài: modules/01-environment/assignment.md
-      - Lab 2 · Nội dung 2 · Huấn luyện:
+      - Lab 2 · Huấn luyện:
           - Tổng quan: modules/02-training/index.md
           - Hướng dẫn thực hành: modules/02-training/guide.md
           - Kiểm tra & nộp bài: modules/02-training/submission.md
-      - Lab 3 · Nội dung 3 · Inference với OpenCV:
+      - Lab 3 · Inference với OpenCV:
           - Tổng quan: modules/03-inference/index.md
           - Khung hướng dẫn: modules/03-inference/guide.md
           - Bài tập & nộp bài: modules/03-inference/assignment.md
-      - Lab 4 · Nội dung 4 · Đánh giá chất lượng:
+      - Lab 4 · Đánh giá chất lượng:
           - Tổng quan: modules/04-evaluation/index.md
           - Khung hướng dẫn: modules/04-evaluation/guide.md
           - Bài tập & nộp bài: modules/04-evaluation/assignment.md
-      - Lab 5 · Nội dung 5 · FPS và độ trễ:
+      - Lab 5 · FPS và độ trễ:
           - Tổng quan: modules/05-benchmark/index.md
           - Khung hướng dẫn: modules/05-benchmark/guide.md
           - Bài tập & nộp bài: modules/05-benchmark/assignment.md
-      - Lab 6 · Nội dung 6 · Tài nguyên và báo cáo:
+      - Lab 6 · Tài nguyên và báo cáo:
           - Tổng quan: modules/06-resources/index.md
           - Khung hướng dẫn: modules/06-resources/guide.md
           - Bài tập & nộp bài: modules/06-resources/assignment.md
-      - Lab 7 · Nội dung 7 · Chưa đặt tên:
+      - Lab 7 · Chưa đặt tên:
           - Tổng quan: modules/07-topic/index.md
           - Khung hướng dẫn: modules/07-topic/guide.md
           - Bài tập & nộp bài: modules/07-topic/assignment.md
-      - Lab 8 · Nội dung 8 · Chưa đặt tên:
+      - Lab 8 · Chưa đặt tên:
           - Tổng quan: modules/08-topic/index.md
           - Khung hướng dẫn: modules/08-topic/guide.md
           - Bài tập & nộp bài: modules/08-topic/assignment.md
@@ -81,4 +82,7 @@ markdown_extensions:
 
 extra:
   generator: false
+
+extra_css:
+  - stylesheets/extra.css
 

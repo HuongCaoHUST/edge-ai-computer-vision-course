@@ -1,4 +1,4 @@
-# Lab 6 · Nội dung 6 · Tài nguyên và báo cáo
+# Lab 6 · Tài nguyên và báo cáo
 
 ## Mục tiêu
 

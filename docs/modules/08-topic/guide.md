@@ -1,4 +1,4 @@
-# Lab 8 · Nội dung 8 · Khung hướng dẫn
+# Lab 8 · Khung hướng dẫn
 
 ## Nội dung sẽ bổ sung
 
